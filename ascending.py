@@ -8,7 +8,7 @@ for _ in range(len(arr)):
             arr[i+1] = temp
 
 print(arr)
-print(-3 < -1)
+
     
 
  
